@@ -5,3 +5,5 @@ Today I Learned
 2021.07.13 - Joined Git Hub
 
 2021.07.13 - Created my first repository
+
+2021.07.14 - Installed iterm2, brew, zsh
